@@ -1,9 +1,8 @@
 <h1 align="center">Hotel App</h1>
 
-<p>This is a movie web application that displays detailed information about all movies and series. Users can search for movies and TV series, viewing all relevant information about them, such as actors, duration, rating, synopsis and available seasons and episodes. In addition, users can also add movies and series to their favorites list to watch later if they have created an account.</p>
+<p>This is a web application that allows users to book hotel rooms online.</p>
 
 <p align="center">Live Site (in a few days) <a href="/https://gurehotelwebsite.netlify.app/room/5">Here</a>.</p>
-
 
 
 ### Built with

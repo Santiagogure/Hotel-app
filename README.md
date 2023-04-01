@@ -2,7 +2,7 @@
 
 <p>This is a web application that allows users to book hotel rooms online.</p>
 
-<p align="center">Live Site (in a few days) <a href="/https://gurehotelwebsite.netlify.app/room/5">Here</a>.</p>
+<p align="center">Live Site <a href="https://gurehotelwebsite.netlify.app/">Here</a>.</p>
 
 
 ### Built with
